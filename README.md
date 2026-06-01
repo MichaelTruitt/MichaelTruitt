@@ -48,7 +48,7 @@ Hands-on with the AI stack: Claude API, Google Gemini, local Ollama, pgvector, p
 - **60%** reduction in support incidents from production GenAI automation for a Fortune-100 reseller (Neudesic and IBM Consulting era); designed the two-phase AI Ops platform after triaging 1,182 incidents on the customer's e-commerce and logistics platforms
 - **$700M** in VMware-based cloud offerings revenue at EMC; $120M direct attribution
 - **$1.8M** Tiger Team authorization on a snap call to keep 6 marquee Fortune-100 customers on the Enterprise Hybrid Cloud GA path; protected over $100M of annual EMC sales without forking the code-tree
-- **Product Manager and Program Lead** for Microsoft Private Cloud Fast Track v3 through v4. Secured corporate funding, owned the product through end-of-life, managed Microsoft Services contractors authoring the reference architectures, and managed a 9-partner OEM/IHV ecosystem
+- **Product Manager and Program Lead** for Microsoft Private Cloud Fast Track v2 through v4. Secured corporate funding, owned the product through end-of-life, managed Microsoft Services contractors authoring the reference architectures, and managed a 9-partner OEM/IHV ecosystem
 - **70+ engineer** global organization founded and scaled at Dell EMC
 - **$1M+** in client business delivered in the first 8 months as Principal / Technology Strategy Consultant at Indigo Slate
 - **>90%** on-time and on-budget delivery across modernization programs
