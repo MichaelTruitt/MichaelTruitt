@@ -10,6 +10,8 @@ Director-level engineering and delivery leader in the Greater Seattle Area. 25+ 
 
 I started my career as a high school history and English teacher and accidentally pivoted into tech in 1998 when I implemented a 9-building school district computer network. Twenty-six years later, the teaching mindset still shows up in how I run engineering teams: clarity, scaffolding, repetition, and celebrating small wins.
 
+Outside of work, I volunteer-coach youth basketball (most recently with Eastlake School District, 2025–2026) — the K-12 coaching habit that started during my Highline teaching years has stuck.
+
 If you're a hiring team looking for a senior leader who still writes code, runs operating rhythms with rigor, and treats teaching as a leadership skill, I'd love to talk.
 
 ## What I'm building
@@ -34,7 +36,7 @@ Most of my repos are private to protect pre-launch IP. Every project below is do
 - **filecopy**. Field-services-friendly PowerShell migration scripts written at Veeam. Each script self-bootstraps required modules, encrypts credentials with DPAPI, and writes a timestamped audit log. Used in customer engagements to validate SaaS backup performance.
   *PowerShell 7 · Az and AWS modules · DPAPI.*
 
-I am also doing concurrent independent architecture and engineering work on two stealth-stage SaaS products under NDA. Architecture and code reviews available to qualified hiring teams.
+I am also serving as **VP of Engineering and Cloud Architect** for two stealth-stage SaaS products under NDA (one current, one concluded). Sole architect and engineer for both, shipping from pilot-stage exploration through production-hardened release. Architecture and code reviews available to qualified hiring teams.
 
 ## How I work
 
@@ -48,9 +50,10 @@ Hands-on with the AI stack: Claude API, Google Gemini, local Ollama, pgvector, p
 - **$1.8M** Tiger Team authorization on a snap call to keep 6 marquee Fortune-100 customers on the Enterprise Hybrid Cloud GA path; protected over $100M of annual EMC sales without forking the code-tree
 - **Product Manager and Program Lead** for Microsoft Private Cloud Fast Track v3 through v4. Secured corporate funding, owned the product through end-of-life, managed Microsoft Services contractors authoring the reference architectures, and managed a 9-partner OEM/IHV ecosystem
 - **70+ engineer** global organization founded and scaled at Dell EMC
+- **$1M+** in client business delivered in the first 8 months as Principal / Technology Strategy Consultant at Indigo Slate
 - **>90%** on-time and on-budget delivery across modernization programs
 - **5,000-attendee** VMUG Chicago hybrid-cloud keynote
-- **Microsoft Gold Star Award (×2)**, Values Award, Best Practice Award, Top Contributor Award (Windows Defender code acquisition), Circle of Excellence, multiple Ship-It Awards
+- **Microsoft Gold Star Award (×2)**, Values Award, Best Practice Award (event stream grew 25× after the OEM call-data project landed), Top Contributor Award (Windows Defender code acquisition), Circle of Excellence, multiple Ship-It Awards
 - **District-wide Teacher of the Year** at Highline Public Schools (1993 to 1998)
 
 ---
