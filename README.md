@@ -10,7 +10,7 @@ Director-level engineering and delivery leader in the Greater Seattle Area. 25+ 
 
 I started my career as a high school history and English teacher and accidentally pivoted into tech in 1998 when I implemented a 9-building school district computer network. Twenty-six years later, the teaching mindset still shows up in how I run engineering teams: clarity, scaffolding, repetition, and celebrating small wins.
 
-Outside of work, I volunteer-coach youth basketball (most recently with Eastlake School District, 2025–2026) — the K-12 coaching habit that started during my Highline teaching years has stuck.
+Outside of work, basketball has been a thirty-year through-line: Pro-Am playing days, varsity head coaching during my Highline teaching years, and most recently youth volunteer coaching with Eastlake School District (2025–2026).
 
 If you're a hiring team looking for a senior leader who still writes code, runs operating rhythms with rigor, and treats teaching as a leadership skill, I'd love to talk.
 
