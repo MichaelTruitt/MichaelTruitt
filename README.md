@@ -40,12 +40,12 @@ I am also serving as **VP of Engineering and Cloud Architect** for two stealth-s
 
 ## How I work
 
-Hands-on with the AI stack: Claude API, Google Gemini, local Ollama, pgvector, prompt engineering, multi-tier fallback with backoff, structured outputs, and tool use. Cloud-first across Azure, AWS, and GCP. Built Azure Stack at Dell EMC; led the AVS, ARM, and Bicep work at Neudesic and IBM Consulting. Comfortable in Python, TypeScript and React, C# and .NET, PowerShell, and Go. Engineering hygiene includes DevSecOps, CI/CD, IaC, SLI and SLO, RCA loops, and automated security scanning (CodeQL, Semgrep, Trivy, gitleaks, Dependabot).
+Hands-on with the AI stack: Claude API, Google Gemini, local Ollama, pgvector, prompt engineering, multi-tier fallback with backoff, structured outputs, and tool use. Cloud-first across Azure, AWS, and GCP. Built Azure Stack at Dell EMC; led the AVS, ARM, and Bicep work at IBM Consulting. Comfortable in Python, TypeScript and React, C# and .NET, PowerShell, and Go. Engineering hygiene includes DevSecOps, CI/CD, IaC, SLI and SLO, RCA loops, and automated security scanning (CodeQL, Semgrep, Trivy, gitleaks, Dependabot).
 
 ## Track record
 
 - **$81M** first-year revenue from hybrid-cloud platform delivery at Dell EMC
-- **60%** reduction in support incidents from production GenAI automation for a Fortune-100 reseller (Neudesic and IBM Consulting era); designed the two-phase AI Ops platform after triaging 1,182 incidents on the customer's e-commerce and logistics platforms
+- **60%** reduction in support incidents from production GenAI automation for a Fortune-100 reseller (IBM Consulting era); designed the two-phase AI Ops platform after triaging 1,182 incidents on the customer's e-commerce and logistics platforms
 - **$700M** in VMware-based cloud offerings revenue at EMC; $120M direct attribution
 - **$1.8M** Tiger Team authorization on a snap call to keep 6 marquee Fortune-100 customers on the Enterprise Hybrid Cloud GA path; protected over $100M of annual EMC sales without forking the code-tree
 - **Product Manager and Program Lead** for Microsoft Private Cloud Fast Track v2 through v4. Secured corporate funding, owned the product through end-of-life, managed Microsoft Services contractors authoring the reference architectures, and managed a 9-partner OEM/IHV ecosystem
